@@ -1,0 +1,14 @@
+node_id,hostname,ip_address,vendor,model,device_type,location,event_type,event_time
+N101,RTR-MEL01,10.10.1.10,Cisco,ASR1001-X,Router,Core Network,LINK_UP,29/09/2026 8:01
+N102,RTR-MEL-02,10.10.1.11,Cisco,ASR1001X,Router,Core Network,BGP_CHANGE,29/09/2026 8:03
+N103,SW-MEL01,10.10.2.10,Cisco,Catalyst 9300,Switch,Core Network,PORT_DOWN,29/09/2026 8:05
+N104,SW-SYD-01,10.20.2.10,Cisco,Catalyst-9300,Switch,Network Eng,PORT_UP,29/09/2026 8:08
+N105,FW-MEL-01,10.10.3.10,PaloAlto,PA-3220,Firewall,Core Network,POLICY_CHANGE,29/09/2026 8:12
+N106,RTR-SYD01,10.20.1.10,Juniper,MX204,Router,Network Eng,BGP_DOWN,29/09/2026 8:15
+N107,SW-BNE-01,10.30.2.10,Cisco,Catalyst 9200,Switch,Network Enablement/OSS,PORT_DOWN,29/09/2026 8:19
+N108,FW-SYD-01,10.20.3.10,Palo Alto,PA3220,Firewall,Network Eng,THREAT_DETECTED,29/09/2026 8:22
+N109,RTR-BNE-01,10.30.1.10,Juniper,MX-204,Router,Network Enablement/OSS,INTERFACE_FLAP,29/09/2026 8:26
+N110,SW-MEL02,10.10.2.11,Cisco,Catalyst-9200,Switch,Core Network,PORT_ERROR,29/09/2026 8:30
+N201,RTR-MEL-09,10.10.9.10,Cisco,ASR1001-X,Router,Core,BGP_CHANGE,29/09/2026 8:34
+N202,SW-SYD-09,10.20.9.10,Cisco,Catalyst-9300,Switch,Network Eng,PORT_DOWN,29/09/2026 8:37
+N203,FW-MEL-09,10.10.9.20,Palo Alto,PA-3220,Firewall,Core Network,POLICY_CHANGE,29/09/2026 8:40
